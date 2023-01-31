@@ -14,5 +14,5 @@
 7. Code and analyze to find shortest paths in a graph with arbitrary edge weights using Bellman-Ford algorithm.
 8. Code and analyze to find shortest paths in a graph with arbitrary edge weights using Flyods’ algorithm.
 9. Code and analyze to find the minimum spanning tree in a weighted, undirected graph using Prims’ algorithm
-10.  Code and analyze to find the minimum spanning tree in a weighted, undirected graph using Kruskals’ algorithm.
-11.  Coding any real world problem or TSP algorithm using any heuristic technique.
+10. Code and analyze to find the minimum spanning tree in a weighted, undirected graph using Kruskals’ algorithm.
+11. Coding any real world problem or TSP algorithm using any heuristic technique.
