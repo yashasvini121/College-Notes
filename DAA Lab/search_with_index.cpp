@@ -86,7 +86,6 @@ int main(){
     cout << "Index through binary search: ";
     if(index_through_binary_search.size() == 0){
         cout << "Item not found" << endl;
-        return 0;
     }
     else{
         sort(index_through_binary_search.begin(),index_through_binary_search.end());
