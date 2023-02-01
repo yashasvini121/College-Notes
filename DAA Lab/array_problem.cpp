@@ -1,7 +1,7 @@
 // Todo:
 // 1. Input array 1
 // 2. Input array 2
-// 3. Array 3 = concatinating array 1 and array 2
+// 3. Array 3 = concatenating array 1 and array 2
 // 4. Fxn to divide array into even and odd
 
 #include <iostream>
