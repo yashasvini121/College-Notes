@@ -1,6 +1,10 @@
+import java.util.Scanner;
+
 public class up_down{
     public static void main(String args[]){
-        String input = "uduuu";
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter the string, eg: uduuddu");
+        String input = scanner.nextLine();
         int ups = 0, downs = 0;
         for(int i=0; i<input.length(); i++){
             if(input.charAt(i) == 'u'){
