@@ -1,4 +1,4 @@
-public class main{
+public class up_down{
     public static void main(String args[]){
         String input = "uduuu";
         int ups = 0, downs = 0;
